@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_IPC_learn.iml" filepath="$PROJECT_DIR$/zx_IPC_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_aidl_learn/zx_aidl_learn.iml" filepath="$PROJECT_DIR$/zx_aidl_learn/zx_aidl_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_aidl_learn_caller/zx_aidl_learn_caller.iml" filepath="$PROJECT_DIR$/zx_aidl_learn_caller/zx_aidl_learn_caller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_messenger_service/zx_messenger_service.iml" filepath="$PROJECT_DIR$/zx_messenger_service/zx_messenger_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_messenger_service_caller/zx_messenger_service_caller.iml" filepath="$PROJECT_DIR$/zx_messenger_service_caller/zx_messenger_service_caller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_remote_service/zx_remote_service.iml" filepath="$PROJECT_DIR$/zx_remote_service/zx_remote_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_remote_service_caller/zx_remote_service_caller.iml" filepath="$PROJECT_DIR$/zx_remote_service_caller/zx_remote_service_caller.iml" />
+    </modules>
+  </component>
+</project>

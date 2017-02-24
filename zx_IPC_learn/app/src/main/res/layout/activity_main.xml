@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cn.demo.zx_ipc_learn.MainActivity">
+
+    <Button
+        android:onClick="onClick"
+        android:text="MainActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/button"/>
+
+    <Button
+        android:onClick="changeMath"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="修改数据"/>
+
+    <Button
+        android:onClick="showMath"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="显示数据"/>
+
+    <Button
+        android:onClick="serialize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="序列化"/>
+
+    <Button
+        android:onClick="unSerialize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="反序列化"/>
+
+    <Button
+        android:onClick="send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="传递数据"/>
+</LinearLayout>

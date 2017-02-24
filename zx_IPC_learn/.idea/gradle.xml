@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\AndroidTools\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/zx_aidl_learn" />
+            <option value="$PROJECT_DIR$/zx_aidl_learn_caller" />
+            <option value="$PROJECT_DIR$/zx_messenger_service" />
+            <option value="$PROJECT_DIR$/zx_messenger_service_caller" />
+            <option value="$PROJECT_DIR$/zx_remote_service" />
+            <option value="$PROJECT_DIR$/zx_remote_service_caller" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
